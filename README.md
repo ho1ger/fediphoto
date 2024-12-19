@@ -18,6 +18,8 @@
 
 - #MeerMittwoch
   - Meer, Strand, Seascapes (the sea, beaches, seascapes)
+- #MakroMittwoch
+  - Makro-Fotografie (macro photography)
 - #WaterfallWednesday
   - Wasserfälle (waterfalls)
 - #WildlifeWednesday
