@@ -18,6 +18,10 @@
 
 - #MeerMittwoch
   - Meer, Strand, Seascapes (the sea, beaches, seascapes)
+- #WaterfallWednesday
+  - Wasserfälle (waterfalls)
+- #WildlifeWednesday
+  - frei lebende Tiere (wildlife)
 
 ## Donnerstag (Thursday)
 
