@@ -2,7 +2,7 @@
 
 (Photo-Topic-Days in the Fediverse) 
 
-Fehlt was? (Anything is missing) -> @holger@mastodon.de 
+Fehlt was? (Anything is missing) -> [@holger@mastodon.de ](https://mastodon.de/@holger)
 
 ## Montag (Monday)
 
