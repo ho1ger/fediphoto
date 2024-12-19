@@ -2,6 +2,8 @@
 
 (Photo-Topic-Days in the Fediverse) 
 
+Fehlt was? (Anything is missing) -> @holger@mastodon.de 
+
 ## Montag (Monday)
 
 - #Fotomontag (#Photomonday)
