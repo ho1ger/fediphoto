@@ -20,6 +20,8 @@
   - Meer, Strand, Seascapes (the sea, beaches, seascapes)
 - #MakroMittwoch
   - Makro-Fotografie (macro photography)
+- #MähMittwoch
+  - Schafe (sheep)
 - #WaterfallWednesday
   - Wasserfälle (waterfalls)
 - #WildlifeWednesday
