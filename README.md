@@ -51,5 +51,5 @@ Fehlt was? (Anything is missing) -> [@holger@mastodon.de ](https://mastodon.de/@
 ## Sonntag (Sunday)
 
 - #SilentSunday
-  - (Alles was "ruhig" ist, z.B. Landschaft, Natur, ...)
+  - Alles was "ruhig" ist, z.B. Landschaft, Natur, ... (Calm and peaceful photos, e.g. nature, landscapes)
 
