@@ -29,17 +29,22 @@
 
 ## Donnerstag (Thursday)
 
-- ?
+- #throwbackthursday
+  - alte Bilder von längst vergangenen Tagen/Ereignissen, etc. (old photos of bygone days/events/etc.)
 
 ## Freitag (Friday} 
 
 - #Fensterfreitag (#WindowsFriday)
   - Fenster, Gebäude mit Fenstern, etc. (Windows, buildings with )
+- #FelineFriday
+  - Wie #Caturday, nur halt auf Latein =) (Like #Caturday, but in Latin)
 
 ## Samstag (Saturday) 
 
 - #SchiffSamstag
   - (Schiffe, Seefahrt)
+- #Caturday
+  - ... das Internet ist für Katzen ... (... the Internet is for cats)
 
 ## Sonntag (Sunday)
 
