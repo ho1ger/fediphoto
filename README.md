@@ -8,6 +8,8 @@ Fehlt was? (Anything is missing) -> [@holger@mastodon.de ](https://mastodon.de/@
 
 - #Fotomontag (#Photomonday)
   - kein festes Thema; das Foto muss von der letzten Woche sein (no fixed topic; photo must be "fresh" from last week)
+- #MountainMonday 
+- #Hundenasenmontag 
 
 ## Dienstag (Tuesday)
 
@@ -22,31 +24,41 @@ Fehlt was? (Anything is missing) -> [@holger@mastodon.de ](https://mastodon.de/@
   - Meer, Strand, Seascapes (the sea, beaches, seascapes)
 - #MakroMittwoch
   - Makro-Fotografie (macro photography)
-- #MähMittwoch
-  - Schafe (sheep)
 - #WaterfallWednesday
   - Wasserfälle (waterfalls)
 - #WildlifeWednesday
   - frei lebende Tiere (wildlife)
+- #MähMittwoch
+  - Schafe (sheep)
 
 ## Donnerstag (Thursday)
 
-- #throwbackthursday
+- #ThrowBackThursday
   - alte Bilder von längst vergangenen Tagen/Ereignissen, etc. (old photos of bygone days/events/etc.)
+- #TravelThursday
+  - Reisebilder (travel photos)
 
 ## Freitag (Friday} 
 
 - #Fensterfreitag (#WindowsFriday)
   - Fenster, Gebäude mit Fenstern, etc. (Windows, buildings with )
-- #FelineFriday
+- #FungiFreitag
+  - Pilze (Mushrooms)
+- #FootpathFriday
+  - kleine Wege (small paths)
+- #FelineFriday (?)
   - Wie #Caturday, nur halt auf Latein =) (Like #Caturday, but in Latin)
+- #FrüchteFreitag (?)
+  - Früchte (Fruit)
 
 ## Samstag (Saturday) 
 
-- #SchiffSamstag
-  - (Schiffe, Seefahrt)
 - #Caturday
   - ... das Internet ist für Katzen ... (... the Internet is for cats)
+- #SchiffSamstag / #SchiffsSamstag
+  - (Schiffe, Seefahrt)
+- #InsektenSamstag
+  - Krabbler (creepy crawlies)
 
 ## Sonntag (Sunday)
 
