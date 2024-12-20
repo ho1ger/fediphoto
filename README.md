@@ -19,7 +19,6 @@ Danke für die vielen Einsendungen! Insb. [@carla@hessen.social](https://mastodo
 - #MushroomMonday
 - #MondTag
 - #SchmetterlingsMontag 
-- #MountainMonday 
 
 ## Dienstag (Tuesday)
 
@@ -108,7 +107,6 @@ Danke für die vielen Einsendungen! Insb. [@carla@hessen.social](https://mastodo
 - #SilentSunday
   - Alles was "ruhig" ist, z.B. Landschaft, Natur, ... (Calm and peaceful photos, e.g. nature, landscapes)
 - #SymmetrySunday
-- #silentSunday 
 - #stairsSunday
 - #StandingStoneSunday
 - #SevenOnSunday 
